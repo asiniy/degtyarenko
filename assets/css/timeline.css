@@ -1,7 +1,7 @@
 /* -----------------------------------------------
  * Timeline
  * --------------------------------------------- */
- .timeline {
+.timeline {
     list-style: none;
     padding: 10px 0;
     position: relative;
@@ -17,6 +17,7 @@
     left: 50%;
     margin-left: -1.5px;
 }
+
 .timeline > li {
     margin-bottom: 20px;
     position: relative;
